@@ -1,0 +1,16 @@
+[package]
+name = "smash"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jian Chen <admin@chensoft.com>"]
+license = "MIT"
+
+description = "A collection of tools."
+documentation = "https://docs.rs/smash"
+repository = "https://github.com/smash-rs/smash"
+readme = "README.md"
+keywords = ["smash"]
+
+[dependencies]
+chrono = "=0.4.26"
+lazy_static = "=1.4.0"
